@@ -1,0 +1,9 @@
+{
+  "name": "try-rollup",
+  "version": "1.0.0",
+  "description": "storybook with using rollup",
+  "main": "src/index.ts",
+  "repository": "git@github.com:junKitClover/try-rollup.git",
+  "author": "junKitClover <jkchan.clovers@gmail.com>",
+  "license": "MIT"
+}
