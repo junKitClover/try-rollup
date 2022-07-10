@@ -5,5 +5,11 @@
   "main": "src/index.ts",
   "repository": "git@github.com:junKitClover/try-rollup.git",
   "author": "junKitClover <jkchan.clovers@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^18.0.15",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "typescript": "^4.7.4"
+  }
 }
