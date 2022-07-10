@@ -1,6 +1,6 @@
 {
   "name": "try-rollup",
-  "version": "1.0.0",
+  "version": "1.2.1",
   "description": "storybook with using rollup",
   "repository": "git@github.com:junKitClover/try-rollup.git",
   "author": "junKitClover <jkchan.clovers@gmail.com>",
